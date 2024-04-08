@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rhys</h1>
+<h1 align="center">👋 Hi, I'm Rhys</h1>
 <h3 align="center">Your friendly neighbourhood Senior Software Engineer from the UK&nbsp;&nbsp;🇬🇧</h3>
 
 - 🔭 I’m a **Senior Software engineer** & **DevOps Engineer** at one of the the UK's fastest growing stars in the B2B and D2C decorating space - **<a href="https://lick.com">Lick</a>**
