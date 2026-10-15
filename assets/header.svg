@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="190" viewBox="0 0 854 190">
+  <rect width="854" height="190" rx="20" fill="#2B2B2B"/>
+  <circle cx="790" cy="44" r="10" fill="#EB313F"/>
+  <circle cx="764" cy="44" r="10" fill="#FFFECD"/>
+  <circle cx="738" cy="44" r="10" fill="#B0BC68"/>
+  <text x="427" y="96" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="56" font-weight="800" fill="#FEBFCA">Hi, I'm Rhys</text>
+  <rect x="337" y="112" width="180" height="8" rx="4" fill="#B0BC68"/>
+  <text x="427" y="152" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="500" fill="#FFFECD" letter-spacing="1">Senior Software and DevOps Engineer · UK</text>
+</svg>
