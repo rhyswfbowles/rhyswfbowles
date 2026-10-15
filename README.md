@@ -18,25 +18,21 @@
 <h3>About me</h3>
 <p><img src="assets/underline-pink.svg" width="100%" alt="" /></p>
 
-<div align="center">
 <table>
   <tr>
-    <td width="62%" valign="top">
-      <p>
-        I'm a <b>Senior Software &amp; DevOps Engineer</b> at <a href="https://lick.com"><b>Lick</b></a>, one of the UK's fastest-growing names in decorating.
-        I love building things that are fast, secure and look after themselves, and I'm happiest helping a team ship with confidence.
-      </p>
-      <p>
-        Outside of work you'll usually find me in my home lab, on a side project, or making a little game.
-      </p>
-      <p>
-        🔭 <b>Day to day:</b> full-stack TypeScript, cloud and e-commerce<br/>
-        🏠 <b>For fun:</b> home labbing, self-hosting and game dev<br/>
-        💬 <b>Ask me about:</b> CI/CD, security, automation and the cloud
-      </p>
+    <td width="65%" valign="top">
+      <br/>
+      <p>I'm a <b>Senior Software &amp; DevOps Engineer</b> at <a href="https://lick.com"><b>Lick</b></a>, one of the UK's fastest-growing names in decorating. I love building things that are fast, secure and look after themselves, and I'm happiest helping a team ship with confidence.</p>
+      <p>Outside of work you'll usually find me in my home lab, on a side project, or making a little game.</p>
+      <br/>
+      <p>🔭 &nbsp;<b>Day to day:</b> full-stack TypeScript, cloud and e-commerce</p>
+      <p>🏠 &nbsp;<b>For fun:</b> home labbing, self-hosting and game dev</p>
+      <p>💬 &nbsp;<b>Ask me about:</b> CI/CD, security, automation and the cloud</p>
+      <br/>
     </td>
-    <td width="38%" align="center" valign="middle">
-      <sub>CURRENTLY BUILDING AT</sub><br/><br/>
+    <td width="35%" align="center" valign="middle">
+      <sub>CURRENTLY BUILDING AT</sub>
+      <br/><br/>
       <a href="https://lick.com">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/lick-logo-white.png" />
@@ -46,7 +42,8 @@
     </td>
   </tr>
 </table>
-</div>
+
+<br/>
 
 <!-- ───────────── Toolbox ───────────── -->
 <h3>Toolbox</h3>
